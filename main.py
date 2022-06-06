@@ -1,0 +1,1 @@
+print("Maked by ahmet hakan ÖZtürk")
